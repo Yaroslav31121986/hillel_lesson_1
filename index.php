@@ -82,3 +82,4 @@ getNameAge ($ivan);
 echo "<br>";
 getNameAge ($vasya);
 getNameAge ($vasya);
+getNameAge ($vasya);
